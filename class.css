@@ -1,0 +1,195 @@
+*{
+  margin: 0 auto;
+}
+#first-div{
+  background-color: grey;
+  height: 9.7vh;
+  width: 120vw;
+}
+#first-div h2{
+  margin-left: 36px;
+  margin-top: -30px;
+}
+.first-div{
+  margin-left: 60px;
+  padding: 30px;
+}
+#second-div{
+  text-align: center;
+  margin-top: -70px;
+  margin-right: 310px;
+}
+.first-button{
+  background-color: rgb(214, 28, 28)
+  ;
+  color: white;
+  border: 1px;
+}
+.third-div{
+  background-color: red;
+  height: 0.2vh;
+  width: 6vw;
+  margin-left: 90px;
+  margin-top: -40px;
+}
+#third-div{
+  margin-left: 90px;
+  width: 100vw;
+  height: 10vh;
+  background-color:white;
+}
+.sub-third{
+  margin-top: 20px;
+}
+.fourth-div{
+  background-color:whitesmoke;
+  width: 100vw;
+  height: 110vh;
+}
+.fiveth-div{
+  background-color: white;
+  width: 40vw;
+  height: 110vh;
+  margin-left: 30%;
+  position: relative;
+  top: 40px;
+  text-align: center;
+}
+#sub-four{
+  padding-top: 60px;
+}
+#sub-four a{
+  text-decoration: none;
+  color: red;
+}
+.google img{
+height: 20px;
+width: 20px;
+}
+.google button{
+  background-color: rgb(252, 76, 76);
+  color: white;
+  border: 1px;
+  padding: 10px 160px 10px 160px;
+  margin-top: 60px
+}
+.fb button{
+  background-color: rgb(67, 101, 175);
+  color: white;
+  border: 1px;
+  padding: 10px 166px 10px 164px;
+  margin-top: 20px
+}
+
+.twitter button{
+  background-color: rgb(64, 163, 255);
+  color: white;
+  border: 1px;
+  padding: 10px 172px 10px 179px;
+  margin-top: 20px
+}
+.fb img{
+  height: 20px;
+  width: 20px;
+  }
+  .twitter img{
+    height: 20px;
+    width: 20px;
+    }
+#or{
+margin-top: 20px;
+}
+#rule{
+  width: 190px;
+  position: relative;
+  top: 20px;
+  left: 70px;
+
+
+}
+#rule-two{
+  width: 190px;
+  position: relative;
+  right: -290px;
+  margin-top: 18px;
+}
+.rule-three{
+  margin-right: 400px;
+}
+.rule-three p{
+  margin-left: 269px;
+  margin-top: -10px;
+}
+.button-three{
+  padding: 20px 160px 20px 160px;
+  margin-bottom: 90px;
+}
+.sixth-div{
+  margin-top: 40px;
+}
+#button-five{
+  background-color: white;
+  color: grey;
+  width: 30vw;
+  height: 4vw;
+  margin-top: 20px;
+  border: 1px solid grey; 
+}
+#button-five img{
+  width: 30px;
+  position: relative;
+  top: 15px;
+  left: -170px;
+}
+
+#email{
+  position: relative;
+  left: -100px;
+  top: -10px;
+}
+#button-six{
+  background-color: white;
+  color: grey;
+  width: 30vw;
+  height: 4vw;
+  margin-top: 20px;
+  border: 1px solid grey;
+}
+
+#button-six img{
+  width: 30px;
+  position: relative;
+  top: 5px;
+  left: -170px;
+}
+#password{
+  position: relative;
+  left: -120px;
+  top: -20px;
+}
+#forgot{
+  margin-left: 280px;
+  margin-top: -15px;
+  color: gray;
+}
+
+#button-seven{
+  background-color: orange;
+  color: white;
+  width: 30vw;
+  height: 4vw;
+  margin-top: 20px;
+  border: none;
+}
+
+#setting{
+  position: relative;
+  top: -270px;
+  right: -655px;
+}
+
+#check{
+  margin-right: 280px;
+  margin-top: 15px;
+  color: rgb(0, 0, 0);
+}
